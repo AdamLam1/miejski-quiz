@@ -14,7 +14,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/miejski-quiz.git
+    git clone https://github.com/adamlam1/miejski-quiz.git
     ```
 2. Navigate to the project directory:
     ```bash
